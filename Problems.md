@@ -66,12 +66,17 @@ $$
 \left(\frac{n-1}{n}\right)^{1/2}\lVert\mathbf{x}\rVert_2
 $$
 
-단,
+단
 
 $$
 \lVert\mathbf{x}\rVert_2
+$$
+
+$$
+
 =
 \left(x_1^2+x_2^2+\cdots+x_n^2\right)^{1/2}
+
 $$
 
 이다.
